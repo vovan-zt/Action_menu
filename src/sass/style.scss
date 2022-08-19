@@ -101,6 +101,11 @@ nav {
             line-height: 18px;
         }
 	}
+	&__title {
+		text-align: center;
+		font-size: 30px;
+		color:rgb(69, 17, 17);
+	}
 
 	@keyframes append-animate {
 		from {
@@ -219,7 +224,5 @@ nav {
 				}
 			}
 		}
-	}
-    
-
+	} 
 }
